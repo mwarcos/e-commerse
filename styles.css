@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-container {
+    width: 100%;
+    height:100%;
+    background-color: #99AD6E;
+}
+.navBar-container {
+    background-color: #FDE48E;
+    height: 4.4rem;
+    width: 100%;
+}
+.navBar___buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+}
